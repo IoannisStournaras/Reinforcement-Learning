@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 #encoding utf-8
 
+
+import sys
+sys.path.insert(0,'/afs/inf.ed.ac.uk/user/s18/s1879286/HFO/')
+
+
 from hfo import *
 import argparse
 import ast
